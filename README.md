@@ -4,4 +4,4 @@ To visit, go to this link below :<br />
 https://basic-saas-jobs.netlify.app/
 <br />
 Screenshot:<br />
-![SaaS Screenshot]
+![SaaS Screenshot](image/screenshot1.PNG)
